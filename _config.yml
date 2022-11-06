@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: 'https://pdennis.github.io/'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: American/New_Yorky
+timezone: American/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -24,7 +24,7 @@ title: take.town                          # the main title
 tagline: By Pat Dennis   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A weblog. 
+  I like solving problems, and building orgs that can solve big problems. Democratic opposition researcher. VP of Research at American Bridge 21st Century
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
