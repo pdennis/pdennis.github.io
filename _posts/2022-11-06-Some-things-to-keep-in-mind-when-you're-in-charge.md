@@ -40,3 +40,20 @@ You need to learn to fight this trap. The iron laws of work are that
 
 * Everything takes longer than expected
 * Something always goes wrong
+This is not an indictment of you and your team, it is a simple fact of the universe. As a manager, you must always keep in mind the gritty reality and difficulty of actually accomplishing anything, and work hard to manage the expectations of those around you.
+
+Under promising and over delivering takes away from the upfront gratification of promising people everything they could possibly need, but it makes everyone’s life much easier in the long run.
+
+## Being Confident in your skills
+
+The key component to managing expectations is being self-assured. If a major component of your job involves explaining to people that the things they’re asking for are actually very difficult to accomplish, after a while it’s easy to lose confidence in your own abilities. “After all,” you may think, “if I was any good at this, I wouldn’t be lowering expectations all the time.”
+
+But that’s not how it works. The fact is that as researcher and a manager you have a rare combination of skills that not a lot of other people have. You know things that other people don’t know. You accomplish things that other people can’t accomplish. As long as you always have this in mind, you’ll have the self-confidence to say no when it needs to be said.
+
+## Training, Investing In Your People
+
+It is usually true that you’ll be better at accomplishing tasks than your team. This isn’t because you’re smarter than them, or more talented. It’s because you have a perfect vision of what you anticipate the end result will look like, and what it’ll take to get there. But your team cannot read your mind, so they’re at a disadvantage regardless of how skilled they are.
+
+The best, most important thing you can do to your team is to be constantly teaching them. It will almost always be more difficult to teach someone to accomplish something the way you would do it than it will be to do it yourself in the short term. But you must fight this. Your workload will very quickly become unsustainable if you don’t invest in your team’s ability to learn how and why to do complicated tasks the way you would.
+
+Build time into your projects for this kind of teaching and learning. It doesn’t come natural to people - least of all me – but unless your researchers can do work unsupervised and on their own, your work will be unsustainable.
