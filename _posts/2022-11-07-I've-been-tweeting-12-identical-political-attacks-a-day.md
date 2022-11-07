@@ -1,7 +1,6 @@
 ---
 Title: I've been tweeting 12 identical political attacks a day
 Date: 2022-11-07
-
 ---
 
 I'm an opposition researcher, and for most people, that means digging up dirt. And it does. But anybody who does this job long enough learns a painful lesson: information doesn't do anything by itself.
