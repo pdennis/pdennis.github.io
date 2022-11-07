@@ -3,6 +3,8 @@ Title: I've been tweeting 12 identical political attacks a day
 Date: 2022-11-07
 ---
 
+So, uh, I've been tweeting 12 identical political attacks a day, every day
+
 I'm an opposition researcher, and for most people, that means digging up dirt. And it does. But anybody who does this job long enough learns a painful lesson: information doesn't do anything by itself.
 
 Information can inspire people to do things, which is great. But not all attacks are powerful enough to do much of that on their own. 
@@ -17,4 +19,12 @@ I'd be remiss if I didn't say I wasn't inspired to start this by [Liz Charboneau
 
 Also, the "every billionaire is a policy failure" guy singlehandedly usernamed that slogan into my consciousness. 
 
-So, anyway, in August of this year, I decided to try an experiment: I'd pick out 12 different political attacks against 12 different politicians up for election in 2022, and I'd tweet them every single day
+So, anyway, in August of this year, I decided to try an experiment: I'd pick out 12 different political attacks against 12 different politicians up for election in 2022, and I'd tweet them every single day. 
+
+There's a real chance this made my Twitter feed insufferable. God knows I'm incredibly sick of reading all those tweets, especially the ones that have gone viral.
+
+As I write this, we're two days out from election day, and these tweets are still bouncing around out there. I plan to pull some data to see how they did -- how many impressions they got, how the topics and phrasing and timing, and writing impacted the success of each message. Maybe I'll write about it here if it's interesting. 
+
+It's important to remember, though, that with something as fuzzy as political information and attacks, there's no way to ever really know. Did a cable news producer, who saw my daily 9am tweet about Ron Johnson and Social Security, suddenly remember that when it was time to put together a key segment? Maybe! Probably not! 
+
+But if there's one thing I know about campaigning, it's that you gotta give things a shot. Hope it helped. But if it didn't, we also tried about 2 dozen other things this cycle.
