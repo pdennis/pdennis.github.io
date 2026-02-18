@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}{{ post.title }} — {{ site.title }}{% endblock %}
+{% block og_title %}{{ post.title }}{% endblock %}
+
+{% block content %}
+<article class="article">
+    <header class="article-header">
+        <a href="/" class="back-link">&larr; All posts</a>
+        <h1 class="article-title">{{ post.title }}</h1>
+        <time class="article-date" datetime="{{ post.date_str }}">{{ post.date_str }}</time>
+    </header>
+    <div class="article-body">
+        {{ post.body }}
+    </div>
+    <footer class="article-footer">
+        <a href="/" class="back-link">&larr; All posts</a>
+    </footer>
+</article>
+{% endblock %}

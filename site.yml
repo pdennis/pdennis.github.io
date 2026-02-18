@@ -1,0 +1,13 @@
+title: "take.town"
+description: "Pat Dennis — Democratic opposition researcher, builder"
+url: "https://take.town"
+author:
+  name: "Pat Dennis"
+  email: "paul@paulmanifort.org"
+avatar: "/assets/images/photo.jpg"
+social:
+  github: "pdennis"
+  twitter: "patdennis"
+  email: "paul@paulmanifort.org"
+posts_per_page: 10
+timezone: "America/New_York"

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}{{ site.title }}{% endblock %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-photo">
+        <img src="/assets/images/photo.jpg" alt="{{ site.author.name }}" class="hero-img">
+        <div class="photo-accent photo-accent-1" aria-hidden="true"></div>
+        <div class="photo-accent photo-accent-2" aria-hidden="true"></div>
+    </div>
+    <div class="hero-text">
+        <p class="hero-intro">{{ site.author.name }}</p>
+        <h1 class="hero-title">Democratic opposition researcher, builder.</h1>
+    </div>
+</section>
+
+<section class="post-feed">
+    {% for post in posts %}
+    <a href="{{ post.url }}" class="post-card">
+        <time class="post-date" datetime="{{ post.date_str }}">{{ post.date_str }}</time>
+        <h2 class="post-title">{{ post.title }}</h2>
+        <p class="post-excerpt">{{ post.excerpt }}</p>
+    </a>
+    {% endfor %}
+</section>
+
+{% if total_pages > 1 %}
+<nav class="pagination">
+    {% if current_page > 1 %}
+        {% if current_page == 2 %}
+        <a href="/" class="page-link">&larr; Newer</a>
+        {% else %}
+        <a href="/page/{{ current_page - 1 }}/" class="page-link">&larr; Newer</a>
+        {% endif %}
+    {% else %}
+    <span></span>
+    {% endif %}
+    <span class="page-num">{{ current_page }}<span class="page-sep">/</span>{{ total_pages }}</span>
+    {% if current_page < total_pages %}
+    <a href="/page/{{ current_page + 1 }}/" class="page-link">Older &rarr;</a>
+    {% else %}
+    <span></span>
+    {% endif %}
+</nav>
+{% endif %}
+{% endblock %}
