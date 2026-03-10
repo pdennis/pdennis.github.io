@@ -475,6 +475,29 @@ hr {
     text-decoration-color: var(--accent-2);
 }
 
+/* --- Tables --- */
+.article-body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    font-size: 0.92rem;
+    line-height: 1.55;
+}
+.article-body th,
+.article-body td {
+    padding: 0.65em 0.85em;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    vertical-align: top;
+}
+.article-body th {
+    font-weight: 600;
+    border-bottom-width: 2px;
+}
+.article-body tr:last-child td {
+    border-bottom: none;
+}
+
 .article-footer {
     margin-top: 3rem;
     padding-top: 2rem;
