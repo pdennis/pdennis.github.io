@@ -4,6 +4,8 @@ Date: 2026-03-10
 
 ---
 
+*Note: I originally wrote this piece for American Bridge's internal wiki in 2020, before I was president of the organization. It is presented here mostly unmodified from that original form.*
+
 ### What do we do here
 
 We pitch stories? We make graphics and tweet them? We give quotes to newspapers?
